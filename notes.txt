@@ -1,0 +1,3 @@
+After the extraction of the Facts 
+- Use the pipeline distilled model for NER 
+- Use the ALeaseBert for extracting the red flags
